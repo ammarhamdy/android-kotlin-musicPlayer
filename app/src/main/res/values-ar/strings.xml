@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">vlmusic</string>
+    <string name="tracks">المسار</string>
+    <string name="playlist">القوائم</string>
+    <string name="saved">المحفوظات</string>
+    <string name="need_permission_alert">يجب منح البرنامج الصلحيات الازمة</string>
+    <string name="zero_time">00:00</string>
+    <string name="shuffle_tracks">خلط</string>
+    <string name="play_previous_track">تشغيل السابق</string>
+    <string name="play_track">تشغيل</string>
+    <string name="play_next_track">تشغيل التالى</string>
+    <string name="volume">الصوت</string>
+    <string name="track_image">صوره الملف</string>
+    <string name="permission_given">حسناً</string>
+    <string name="favorite_image">المضلة</string>
+    <string name="favorites">المفضلة</string>
+</resources>

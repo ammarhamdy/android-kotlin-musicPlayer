@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ControllerActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@id/controller_linear_layout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/controller_picture_imageview"
+            android:layout_width="256dp"
+            android:layout_height="256dp"
+            android:src="@drawable/ic_round_music_note_256"
+            android:background="@drawable/round_green_light"
+            android:contentDescription="@string/track_image" />
+
+        <TextView
+            android:id="@+id/controller_title_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:maxLines="2"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6"
+            android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/controller_artist_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:maxLines="1"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/controller_linear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="15dp"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <com.youssef.vlmusic.model.ControllerView.ControllerImageButton
+            android:id="@+id/favorite_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/favorite_image"
+            style="@style/FavoriteController"
+            android:layout_gravity="center"/>
+
+        <SeekBar
+            android:id="@+id/controller_seekbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/controller_duration_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_toEndOf="@id/controller_current_time_textview"
+                android:gravity="end"
+                android:text="@string/zero_time"/>
+
+            <TextView
+                android:id="@+id/controller_current_time_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:text="@string/zero_time"/>
+        </RelativeLayout>
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.youssef.vlmusic.model.ControllerView.ControllerImageButton
+                android:id="@+id/shuffle_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:contentDescription="@string/shuffle_tracks"
+                style="@style/ShuffleOffController"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintRight_toLeftOf="@id/previous_image"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                android:scaleX=".75"
+                android:scaleY=".75"/>
+
+            <com.youssef.vlmusic.model.ControllerView.ControllerImageButton
+                android:id="@+id/previous_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:contentDescription="@string/play_previous_track"
+                style="@style/PlayPreviousController"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@id/play_image"
+                app:layout_constraintStart_toEndOf="@id/shuffle_image"
+                app:layout_constraintTop_toTopOf="parent"
+                android:scaleX=".75"
+                android:scaleY=".75"/>
+
+            <com.youssef.vlmusic.model.ControllerView.ControllerImageButton
+                android:id="@+id/play_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/PlayController"
+                android:background="@android:color/transparent"
+                android:contentDescription="@string/play_track"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintLeft_toRightOf="@id/previous_image"
+                app:layout_constraintRight_toLeftOf="@id/next_image"
+                app:layout_constraintTop_toTopOf="parent"
+                android:scaleX=".75"
+                android:scaleY=".75"/>
+
+            <com.youssef.vlmusic.model.ControllerView.ControllerImageButton
+                android:id="@+id/next_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:contentDescription="@string/play_next_track"
+                style="@style/PlayNextController"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@id/volume_image"
+                app:layout_constraintStart_toEndOf="@id/play_image"
+                app:layout_constraintTop_toTopOf="parent"
+                android:scaleX=".75"
+                android:scaleY=".75"/>
+
+            <com.youssef.vlmusic.model.ControllerView.ControllerImageButton
+                android:id="@+id/volume_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:contentDescription="@string/volume"
+                style="@style/VolumeUpController"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintLeft_toRightOf="@id/next_image"
+                app:layout_constraintTop_toTopOf="parent"
+                android:scaleX=".75"
+                android:scaleY=".75"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

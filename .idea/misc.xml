@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable-anydpi/forward.xml" value="0.2755" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable-anydpi/library_music.xml" value="0.2755" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable-anydpi/music_note.xml" value="0.2755" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable-anydpi/pause.xml" value="0.2755" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable-anydpi/play_arrow.xml" value="0.2755" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable-anydpi/rewind.xml" value="0.2755" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable-anydpi/save_alt.xml" value="0.2755" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable-anydpi/shuffel_on.xml" value="0.2755" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable-anydpi/shuffle.xml" value="0.2755" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable-anydpi/vertical_align_bottom.xml" value="0.2755" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable-anydpi/volume_off.xml" value="0.2755" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable-anydpi/volume_up.xml" value="0.2755" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2155" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_baseline_music_note_128.xml" value="0.2695" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2155" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_fast_forward_48.xml" value="0.2755" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_fast_forward_64.xml" value="0.2475" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_fast_forward_black_64.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_fast_forward_light.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_fast_forward_night.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_fast_forward_white_64.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_fast_rewind_64.xml" value="0.2475" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_fast_rewind_black_64.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_fast_rewind_light.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_fast_rewind_night.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_fast_rewind_white_64.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_favorite_128.xml" value="0.2695" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_favorite_64.xml" value="0.2345" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_favorite_black_64.xml" value="0.2165" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_favorite_border_64.xml" value="0.2345" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_favorite_border_black_64.xml" value="0.2165" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_favorite_border_light.xml" value="0.2165" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_favorite_border_night.xml" value="0.2165" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_favorite_border_white_64.xml" value="0.2165" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_favorite_light.xml" value="0.2165" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_favorite_night.xml" value="0.2165" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_favorite_white_64.xml" value="0.2165" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_library_music_128.xml" value="0.3225" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_library_music_24.xml" value="0.2285" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_library_music_64.xml" value="0.2695" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_music_note_128.xml" value="0.2695" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_music_note_256.xml" value="0.2475" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_music_note_256_night.xml" value="0.241" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_music_note_64.xml" value="0.2255" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_music_note_64_light.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_music_note_64_night.xml" value="0.241" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_pause_64.xml" value="0.2255" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_pause_black_64.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_pause_light.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_pause_night.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_pause_white_64.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_play_arrow_64.xml" value="0.2475" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_play_arrow_black_64.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_play_arrow_light.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_play_arrow_night.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_play_arrow_white_64.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_shuffle_64.xml" value="0.2475" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_shuffle_off_64.xml" value="0.2345" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_shuffle_off_black.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_shuffle_off_light.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_shuffle_off_night.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_shuffle_off_white.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_shuffle_off_white_64.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_shuffle_on_64.xml" value="0.2475" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_shuffle_on_black_64.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_shuffle_on_light.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_shuffle_on_night.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_shuffle_on_white_64.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_volume_off_64.xml" value="0.2475" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_volume_off_black_64.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_volume_off_light.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_volume_off_night.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_volume_off_white_64.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_volume_up_64.xml" value="0.2475" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_volume_up_black.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_volume_up_light.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_volume_up_night.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_volume_up_white.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/ic_round_volume_up_white_64.xml" value="0.2405" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_background_light.xml" value="0.2165" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_background_night.xml" value="0.2165" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_bg.xml" value="0.2315" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_dark_gray.xml" value="0.2695" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_gray.xml" value="0.2345" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_green.xml" value="0.2345" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_green_bg.xml" value="0.2475" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_green_light.xml" value="0.241" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_green_night.xml" value="0.241" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_green_strock.xml" value="0.22" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_green_strock_dark_gray.xml" value="0.22" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_green_strock_light_gray.xml" value="0.22" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_green_stroke.xml" value="0.2255" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_left_right_edges_dark_gray.xml" value="0.2345" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_left_right_edges_lighter_gray.xml" value="0.2345" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_left_right_edges_white.xml" value="0.2295" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_left_right_rdges_no_color.xml" value="0.2695" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_light_gray.xml" value="0.2315" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_lighter_bg.xml" value="0.2315" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/round_quite_dark_gray.xml" value="0.2345" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/rounded_bg.xml" value="0.1955" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/drawable/rounded_lighter_bg.xml" value="0.187" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/layout/activity_controller.xml" value="0.33" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/layout/activity_main.xml" value="0.41822916666666665" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/layout/fragment_playlist.xml" value="0.33" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/layout/fragment_playlist_track.xml" value="0.39479166666666665" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/layout/fragment_saved_audio.xml" value="0.39479166666666665" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/layout/fragment_self_track.xml" value="0.41822916666666665" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/layout/fragment_track.xml" value="0.41822916666666665" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/layout/fragment_tracks.xml" value="0.39479166666666665" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/layout/numbad.xml" value="0.25" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/layout/playlist_view_item.xml" value="0.4161458333333333" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/layout/recyclerview_item.xml" value="0.33" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/layout/track_view_item.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2205" />
+        <entry key="..\:/Users/ammar/AndroidStudioProjects/vlmusic/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2205" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,83 @@
+<resources>
+
+    <!-- quit green theme. -->
+    <style name="Theme.QuitGreen" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/darker_green</item>
+        <item name="colorPrimaryVariant">@color/lighter_green</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- no actions bar. -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <!--  cardView background in night theme  -->
+    <style name="CardViewStyle">
+        <item name="android:background">@drawable/round_quite_dark_gray</item>
+    </style>
+
+    <!--  playlist fragment background in night theme  -->
+    <style name="PlaylistFragmentStyle">
+        <item name="android:background">@color/darker_gray</item>
+    </style>
+
+    <!--  playlist recycler view background in night theme  -->
+    <style name="PlaylistRecyclerStyle">
+        <item name="android:background">@drawable/round_left_right_edges_dark_gray</item>
+    </style>
+
+    <!--  static playlist background in night theme  -->
+    <style name="RoundBackground">
+        <item name="android:background">@drawable/round_background_night</item>
+    </style>
+
+<!--  Controllers  -->
+    <!--  play image view in night theme  -->
+    <style name="PlayController">
+        <item name="android:src">@drawable/ic_round_play_arrow_night </item>
+    </style>
+
+    <!--  Pause image view in night theme  -->
+    <style name="PauseController">
+        <item name="android:src">@drawable/ic_round_pause_night </item>
+    </style>
+
+    <!--  play next image view in night theme  -->
+    <style name="PlayNextController">
+        <item name="android:src">@drawable/ic_round_fast_forward_night</item>
+    </style>
+
+    <!--  play previous image view in night theme  -->
+    <style name="PlayPreviousController">
+        <item name="android:src">@drawable/ic_round_fast_rewind_night </item>
+    </style>
+
+    <!--  volume up image view in night theme  -->
+    <style name="VolumeUpController">
+        <item name="android:src">@drawable/ic_round_volume_up_night</item>
+    </style>
+
+    <!--  volume off image view in night theme  -->
+    <style name="VolumeOffController">
+        <item name="android:src">@drawable/ic_round_volume_off_night</item>
+    </style>
+
+    <!--  shuffle on image view in light theme  -->
+    <style name="ShuffleOnController">
+        <item name="android:src">@drawable/ic_round_shuffle_on_night </item>
+    </style>
+
+    <!--  shuffle off image view in night theme  -->
+    <style name="ShuffleOffController">
+        <item name="android:src">@drawable/ic_round_shuffle_off_night </item>
+    </style>
+
+    <!--  Favorite image view in night theme  -->
+    <style name="FavoriteController">
+        <item name="android:src">@drawable/ic_round_favorite_border_night </item>
+    </style>
+
+</resources>

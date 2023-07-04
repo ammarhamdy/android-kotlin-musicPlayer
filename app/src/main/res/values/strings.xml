@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">vlmusic</string>
+    <string name="tracks">tracks</string>
+    <string name="playlist">playlist</string>
+    <string name="saved">saved</string>
+    <string name="need_permission_alert">
+        please go to settings app and give the app required permissions!
+    </string>
+    <string name="zero_time">0:00</string>
+    <string name="shuffle_tracks">shuffle tracks</string>
+    <string name="play_previous_track">play previous track</string>
+    <string name="play_track">play track</string>
+    <string name="play_next_track">play next track</string>
+    <string name="volume">volume</string>
+    <string name="track_image">track image</string>
+    <string name="permission_given">I do</string>
+    <string name="favorite_image">favorite</string>
+    <string name="favorites">Favorites</string>
+</resources>

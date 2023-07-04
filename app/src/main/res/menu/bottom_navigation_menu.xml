@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--  playlists icon  -->
+    <item
+        android:id="@+id/playlist_icon"
+        android:icon="@drawable/library_music"
+        android:title="@string/playlist"
+        />
+
+    <!--  tracks icon  -->
+    <item
+        android:id="@+id/tracks_icon"
+        android:icon="@drawable/music_note"
+        android:title="@string/tracks"
+        />
+
+<!-- saved audios -->
+    <item
+        android:id="@+id/saved_icon"
+        android:icon="@drawable/save_alt"
+        android:title="@string/saved"
+        />
+
+</menu>

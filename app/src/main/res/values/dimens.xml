@@ -1,0 +1,16 @@
+<resources>
+	<dimen name="singerImg">88.8dp</dimen>
+	<dimen name="fab_center_dimen">240dp</dimen>
+	<dimen name="civ">3.1dp</dimen>
+	<!--  my dimensions -->
+	<dimen name="text_size">16.0sp</dimen>
+	<!-- view card dimensions -->
+	<dimen name="card_view_text_margin">5.0dip</dimen>
+	<dimen name="card_view_line_margin_left">24.0dip</dimen>
+	<dimen name="card_view_line_margin_right">24.0dip</dimen>
+	<dimen name="card_view_image_margin">8.0dip</dimen>
+	<dimen name="card_view_image_width">48.0dip</dimen>
+	<dimen name="card_view_image_height">48.0dip</dimen>
+	<dimen name="card_view_margin">9.0dip</dimen>
+	<dimen name="card_view_padding">9dp</dimen>
+</resources>
